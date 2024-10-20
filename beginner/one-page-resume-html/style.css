@@ -1,0 +1,71 @@
+body {
+    font-family: 'TImes New Roman';
+    width: 700px;
+    margin-left: 300px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 30px;
+}
+
+.date {
+    margin-left: 234px;
+    font-weight: bold;
+}
+
+.date1 {
+    font-weight: bold;
+     margin-left: 100px;
+}
+
+.date2 {
+    font-weight: bold;
+     margin-left: 225px;
+}
+
+.date3 {
+    font-weight: bold;
+     margin-left: 270px;
+}
+
+.name {
+    margin-left: 230px;
+    margin-bottom: 0;
+}
+
+.sub-heading {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.link {
+    color: blue;
+    text-decoration: none;
+}
+
+hr{
+    margin-top: -18px;
+    color: black;
+    border-style: solid;
+    background-color: black;
+}
+
+.skills {
+    font-size: 15px;
+}
+
+.deets {
+    margin: 0;
+    font-size: 15px;
+}
+
+ul {
+    margin-left: -22px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.gpa {
+    margin-left: 444px;
+}
